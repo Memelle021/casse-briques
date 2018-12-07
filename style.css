@@ -1,0 +1,14 @@
+@import 'reset.css';
+
+#canvas1 { 
+  border:solid 1px red;
+}
+
+#accueil, #jeu, #resultat{
+  top:0;
+  left:0;
+}
+
+#resultat, #jeu{
+  display:none;
+}
